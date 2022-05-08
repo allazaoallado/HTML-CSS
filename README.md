@@ -1,2 +1,2 @@
 # HTML-CSS
-Arquivos do curso e evolução do meu progresso
+Arquivos do curso e evolução do meu progresso.
