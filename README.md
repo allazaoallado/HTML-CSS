@@ -1,3 +1,3 @@
 # HTML-CSS
-Arquivos do curso e evolução do meu progresso.
+Evolução do meu progresso em HTML e CSS.
 "It's a work in progress"
